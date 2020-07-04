@@ -9,6 +9,11 @@
   - numpy
   - pandas
   - absl
+  
+## usage
+
+- go to your PySC2 path then:
+  `python -m pysc2.bin.agent --map Simple64 --agent pysc2.agents.QTable_Zerg.SmartAgent --agent2 pysc2.agents.QTable_Zerg.RandomAgent`
 
 ## sources :
 
