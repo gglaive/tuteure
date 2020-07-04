@@ -1,6 +1,16 @@
 # tuteure
 
-sources :
+## prérequis :
+
+- PySC2  https://github.com/deepmind/pysc2
+- Starcraft2
+- package python :
+  - random
+  - numpy
+  - pandas
+  - absl
+
+## sources :
 
 https://medium.com/playing-sample-efficient-sc-ii/exploiting-intelligent-network-design-to-improve-sc2-agent-learning-efficiency-7c30dc049b8f
 
